@@ -13,7 +13,8 @@
 
 ## 아키텍처
 
-![스크린샷 2023-06-27 101240](https://github.com/cs-devops-bootcamp/devops-04-Final-Team1/assets/126463087/7a432e2d-4663-4a79-92d0-06e1a68efc7a)
+<img width="725" height="662" alt="249034271-7a432e2d-4663-4a79-92d0-06e1a68efc7a" src="https://github.com/user-attachments/assets/2af9c992-9555-40b7-a3ac-062c2c511ce5" />
+
 
 ## 기술 스택
 
